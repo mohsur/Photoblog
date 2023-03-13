@@ -1,2 +1,2 @@
 # Photoblog
-just a sample photoblog made with html and css.
+A sample photoblog made with html and css.
